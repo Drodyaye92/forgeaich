@@ -1,0 +1,22 @@
+        .m-auto {
+            width: 600px;
+            max-height: 400px;
+            border: solid 1px whitesmoke;
+        }
+        
+        .note {
+            border-radius: 10px;
+        }
+        
+        .lines.th.h6 {
+            border-collapse: separate;
+            text-indent: initial;
+            border-spacing: 2px;
+            border: 1px 1px 0 0;
+        }
+        
+        .cote {
+            background: -webkit-linear-gradient(to top, #4A569D, #DC2424);
+            background: linear-gradient(to top, #4A569D, #DC2424);
+            height: 800px;
+        }
